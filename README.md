@@ -1,6 +1,7 @@
 # flutter_app
 
-A new Flutter project.
+My journey to new programming language dart and software development kit (SDK) flutter.
+Here I have designed the UI/UX of Mobile e-commerce application "Mobile Ghar"..
 
 ## Getting Started
 
